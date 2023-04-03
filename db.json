@@ -1,0 +1,71 @@
+{
+  "khungcanh": [
+    {
+      "id": 0,
+      "tenchunha": "Lê Đức",
+      "datnuoc": "Việt Nam",
+      "tencanho": "Chung cư giáp biển",
+      "price": "1000",
+      "dacdiem": "Bãi biển",
+      "img": [
+        "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/image%2Fimgbnb%20(1).jpg?alt=media&token=8fc7c57e-826c-47d0-9c46-16eb83be150e",
+        "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/image%2Fimgbnb%20(1).jpeg?alt=media&token=df3d03a3-74f8-48f9-b831-4f2a1e0a1432",
+        "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/image%2Fimgbnb%20(2).jpeg?alt=media&token=4bfc3937-24e3-435d-81e7-73aea68c5bda",
+        "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/image%2Fimgbnb%20(2).jpg?alt=media&token=1e34a63e-8072-4c2f-8665-18913630a764",
+        "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/image%2Fimgbnb%20(3).jpeg?alt=media&token=7eb75e81-097d-4a7d-89a7-c79d780f1ae3",
+        ""
+      ],
+      "dateStart": "2023-02-24",
+      "dateEnd": "2023-02-28",
+      "sdtchunhansp": "0352665001",
+      "diachi": "Thái Lan"
+      
+    }
+  ],
+  "baibien": [
+    {
+      "id": 0,
+      "tenchunha": "Lê Đức",
+      "datnuoc": "Việt Nam",
+      "tencanho": "Chung cư giáp biển",
+      "price": "1000",
+      "dacdiem": "Bãi biển",
+      "img": [
+        "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/image%2Fimgbnb%20(1).jpg?alt=media&token=8fc7c57e-826c-47d0-9c46-16eb83be150e",
+        "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/image%2Fimgbnb%20(1).jpeg?alt=media&token=df3d03a3-74f8-48f9-b831-4f2a1e0a1432",
+        "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/image%2Fimgbnb%20(2).jpeg?alt=media&token=4bfc3937-24e3-435d-81e7-73aea68c5bda",
+        "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/image%2Fimgbnb%20(2).jpg?alt=media&token=1e34a63e-8072-4c2f-8665-18913630a764",
+        "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/image%2Fimgbnb%20(3).jpeg?alt=media&token=7eb75e81-097d-4a7d-89a7-c79d780f1ae3",
+        ""
+      ],
+      "dateStart": "2023-02-24",
+      "dateEnd": "2023-02-28",
+      "sdtchunhansp": "0352665001",
+      "diachi": "Thái Lan"
+      
+    }
+  ],
+  "laudai": [
+    {
+      "id": 0,
+      "tenchunha": "Lê Đức",
+      "datnuoc": "Việt Nam",
+      "tencanho": "Chung cư giáp biển",
+      "price": "1000",
+      "dacdiem": "Bãi biển",
+      "img": [
+        "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/image%2Fimgbnb%20(1).jpg?alt=media&token=8fc7c57e-826c-47d0-9c46-16eb83be150e",
+        "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/image%2Fimgbnb%20(1).jpeg?alt=media&token=df3d03a3-74f8-48f9-b831-4f2a1e0a1432",
+        "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/image%2Fimgbnb%20(2).jpeg?alt=media&token=4bfc3937-24e3-435d-81e7-73aea68c5bda",
+        "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/image%2Fimgbnb%20(2).jpg?alt=media&token=1e34a63e-8072-4c2f-8665-18913630a764",
+        "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/image%2Fimgbnb%20(3).jpeg?alt=media&token=7eb75e81-097d-4a7d-89a7-c79d780f1ae3",
+        ""
+      ],
+      "dateStart": "2023-02-24",
+      "dateEnd": "2023-02-28",
+      "sdtchunhansp": "0352665001",
+      "diachi": "Thái Lan"
+      
+    }
+  ]
+}
